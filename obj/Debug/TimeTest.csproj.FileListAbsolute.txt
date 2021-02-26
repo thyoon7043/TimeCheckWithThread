@@ -1,0 +1,10 @@
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\TimeTest.csprojAssemblyReference.cache
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\TimeTest.Form1.resources
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\UDPTest.Properties.Resources.resources
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\TimeTest.csproj.GenerateResource.cache
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\TimeTest.csproj.CoreCompileInputs.cache
+C:\Users\miso7\Desktop\TimeTest1\bin\Debug\UDPTest.exe.config
+C:\Users\miso7\Desktop\TimeTest1\bin\Debug\UDPTest.exe
+C:\Users\miso7\Desktop\TimeTest1\bin\Debug\UDPTest.pdb
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\UDPTest.exe
+C:\Users\miso7\Desktop\TimeTest1\obj\Debug\UDPTest.pdb
